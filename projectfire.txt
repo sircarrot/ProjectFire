@@ -1,0 +1,12 @@
+Project Fire To Do list
+- 2D tile mapping engine
+- Tile pathfinding
+- Terrain
+- Classes
+	- Balancing
+- Combat
+	- Balancing
+	- UI UX
+- Stupid AI
+- Soundtrack
+- Sprites (2D/3D ?)
