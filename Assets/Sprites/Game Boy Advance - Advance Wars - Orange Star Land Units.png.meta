@@ -1,0 +1,6120 @@
+fileFormatVersion: 2
+guid: 1020cd4a0ca38004aa5524c445fe20a1
+timeCreated: 1503339962
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Advance Wars - Orange Star Land Units_0
+    21300002: Game Boy Advance - Advance Wars - Orange Star Land Units_1
+    21300004: Game Boy Advance - Advance Wars - Orange Star Land Units_2
+    21300006: Game Boy Advance - Advance Wars - Orange Star Land Units_5
+    21300008: Game Boy Advance - Advance Wars - Orange Star Land Units_6
+    21300010: Game Boy Advance - Advance Wars - Orange Star Land Units_7
+    21300012: Game Boy Advance - Advance Wars - Orange Star Land Units_8
+    21300014: Game Boy Advance - Advance Wars - Orange Star Land Units_9
+    21300016: Game Boy Advance - Advance Wars - Orange Star Land Units_12
+    21300018: Game Boy Advance - Advance Wars - Orange Star Land Units_13
+    21300020: Game Boy Advance - Advance Wars - Orange Star Land Units_14
+    21300022: Game Boy Advance - Advance Wars - Orange Star Land Units_15
+    21300024: Game Boy Advance - Advance Wars - Orange Star Land Units_16
+    21300026: Game Boy Advance - Advance Wars - Orange Star Land Units_17
+    21300028: Game Boy Advance - Advance Wars - Orange Star Land Units_18
+    21300030: Game Boy Advance - Advance Wars - Orange Star Land Units_19
+    21300032: Game Boy Advance - Advance Wars - Orange Star Land Units_20
+    21300034: Game Boy Advance - Advance Wars - Orange Star Land Units_21
+    21300036: Game Boy Advance - Advance Wars - Orange Star Land Units_22
+    21300038: Game Boy Advance - Advance Wars - Orange Star Land Units_23
+    21300040: Game Boy Advance - Advance Wars - Orange Star Land Units_24
+    21300042: Game Boy Advance - Advance Wars - Orange Star Land Units_25
+    21300044: Game Boy Advance - Advance Wars - Orange Star Land Units_26
+    21300046: Game Boy Advance - Advance Wars - Orange Star Land Units_27
+    21300048: Game Boy Advance - Advance Wars - Orange Star Land Units_28
+    21300050: Game Boy Advance - Advance Wars - Orange Star Land Units_29
+    21300052: Game Boy Advance - Advance Wars - Orange Star Land Units_30
+    21300054: Game Boy Advance - Advance Wars - Orange Star Land Units_31
+    21300056: Game Boy Advance - Advance Wars - Orange Star Land Units_32
+    21300058: Game Boy Advance - Advance Wars - Orange Star Land Units_33
+    21300060: Game Boy Advance - Advance Wars - Orange Star Land Units_34
+    21300062: Game Boy Advance - Advance Wars - Orange Star Land Units_35
+    21300064: Game Boy Advance - Advance Wars - Orange Star Land Units_36
+    21300066: Game Boy Advance - Advance Wars - Orange Star Land Units_37
+    21300068: Game Boy Advance - Advance Wars - Orange Star Land Units_38
+    21300070: Game Boy Advance - Advance Wars - Orange Star Land Units_39
+    21300072: Game Boy Advance - Advance Wars - Orange Star Land Units_40
+    21300074: Game Boy Advance - Advance Wars - Orange Star Land Units_41
+    21300076: Game Boy Advance - Advance Wars - Orange Star Land Units_42
+    21300078: Game Boy Advance - Advance Wars - Orange Star Land Units_43
+    21300080: Game Boy Advance - Advance Wars - Orange Star Land Units_44
+    21300082: Game Boy Advance - Advance Wars - Orange Star Land Units_45
+    21300084: Game Boy Advance - Advance Wars - Orange Star Land Units_46
+    21300086: Game Boy Advance - Advance Wars - Orange Star Land Units_47
+    21300088: Game Boy Advance - Advance Wars - Orange Star Land Units_48
+    21300090: Game Boy Advance - Advance Wars - Orange Star Land Units_49
+    21300092: Game Boy Advance - Advance Wars - Orange Star Land Units_50
+    21300094: Game Boy Advance - Advance Wars - Orange Star Land Units_51
+    21300096: Game Boy Advance - Advance Wars - Orange Star Land Units_52
+    21300098: Game Boy Advance - Advance Wars - Orange Star Land Units_53
+    21300100: Game Boy Advance - Advance Wars - Orange Star Land Units_54
+    21300102: Game Boy Advance - Advance Wars - Orange Star Land Units_55
+    21300104: Game Boy Advance - Advance Wars - Orange Star Land Units_56
+    21300106: Game Boy Advance - Advance Wars - Orange Star Land Units_57
+    21300108: Game Boy Advance - Advance Wars - Orange Star Land Units_58
+    21300110: Game Boy Advance - Advance Wars - Orange Star Land Units_59
+    21300112: Game Boy Advance - Advance Wars - Orange Star Land Units_60
+    21300114: Game Boy Advance - Advance Wars - Orange Star Land Units_61
+    21300116: Game Boy Advance - Advance Wars - Orange Star Land Units_62
+    21300118: Game Boy Advance - Advance Wars - Orange Star Land Units_63
+    21300120: Game Boy Advance - Advance Wars - Orange Star Land Units_64
+    21300122: Game Boy Advance - Advance Wars - Orange Star Land Units_65
+    21300124: Game Boy Advance - Advance Wars - Orange Star Land Units_66
+    21300126: Game Boy Advance - Advance Wars - Orange Star Land Units_67
+    21300128: Game Boy Advance - Advance Wars - Orange Star Land Units_68
+    21300130: Game Boy Advance - Advance Wars - Orange Star Land Units_69
+    21300132: Game Boy Advance - Advance Wars - Orange Star Land Units_70
+    21300134: Game Boy Advance - Advance Wars - Orange Star Land Units_71
+    21300136: Game Boy Advance - Advance Wars - Orange Star Land Units_72
+    21300138: Game Boy Advance - Advance Wars - Orange Star Land Units_73
+    21300140: Game Boy Advance - Advance Wars - Orange Star Land Units_74
+    21300142: Game Boy Advance - Advance Wars - Orange Star Land Units_75
+    21300144: Game Boy Advance - Advance Wars - Orange Star Land Units_76
+    21300146: Game Boy Advance - Advance Wars - Orange Star Land Units_77
+    21300148: Game Boy Advance - Advance Wars - Orange Star Land Units_78
+    21300150: Game Boy Advance - Advance Wars - Orange Star Land Units_79
+    21300152: Game Boy Advance - Advance Wars - Orange Star Land Units_80
+    21300154: Game Boy Advance - Advance Wars - Orange Star Land Units_81
+    21300156: Game Boy Advance - Advance Wars - Orange Star Land Units_82
+    21300158: Game Boy Advance - Advance Wars - Orange Star Land Units_83
+    21300160: Game Boy Advance - Advance Wars - Orange Star Land Units_84
+    21300162: Game Boy Advance - Advance Wars - Orange Star Land Units_85
+    21300164: Game Boy Advance - Advance Wars - Orange Star Land Units_86
+    21300166: Game Boy Advance - Advance Wars - Orange Star Land Units_87
+    21300168: Game Boy Advance - Advance Wars - Orange Star Land Units_88
+    21300170: Game Boy Advance - Advance Wars - Orange Star Land Units_89
+    21300172: Game Boy Advance - Advance Wars - Orange Star Land Units_90
+    21300174: Game Boy Advance - Advance Wars - Orange Star Land Units_91
+    21300176: Game Boy Advance - Advance Wars - Orange Star Land Units_92
+    21300178: Game Boy Advance - Advance Wars - Orange Star Land Units_93
+    21300180: Game Boy Advance - Advance Wars - Orange Star Land Units_94
+    21300182: Game Boy Advance - Advance Wars - Orange Star Land Units_95
+    21300184: Game Boy Advance - Advance Wars - Orange Star Land Units_96
+    21300186: Game Boy Advance - Advance Wars - Orange Star Land Units_97
+    21300188: Game Boy Advance - Advance Wars - Orange Star Land Units_98
+    21300190: Game Boy Advance - Advance Wars - Orange Star Land Units_99
+    21300192: Game Boy Advance - Advance Wars - Orange Star Land Units_100
+    21300194: Game Boy Advance - Advance Wars - Orange Star Land Units_101
+    21300196: Game Boy Advance - Advance Wars - Orange Star Land Units_102
+    21300198: Game Boy Advance - Advance Wars - Orange Star Land Units_103
+    21300200: Game Boy Advance - Advance Wars - Orange Star Land Units_104
+    21300202: Game Boy Advance - Advance Wars - Orange Star Land Units_105
+    21300204: Game Boy Advance - Advance Wars - Orange Star Land Units_106
+    21300206: Game Boy Advance - Advance Wars - Orange Star Land Units_107
+    21300208: Game Boy Advance - Advance Wars - Orange Star Land Units_108
+    21300210: Game Boy Advance - Advance Wars - Orange Star Land Units_109
+    21300212: Game Boy Advance - Advance Wars - Orange Star Land Units_110
+    21300214: Game Boy Advance - Advance Wars - Orange Star Land Units_111
+    21300216: Game Boy Advance - Advance Wars - Orange Star Land Units_112
+    21300218: Game Boy Advance - Advance Wars - Orange Star Land Units_113
+    21300220: Game Boy Advance - Advance Wars - Orange Star Land Units_114
+    21300222: Game Boy Advance - Advance Wars - Orange Star Land Units_115
+    21300224: Game Boy Advance - Advance Wars - Orange Star Land Units_116
+    21300226: Game Boy Advance - Advance Wars - Orange Star Land Units_117
+    21300228: Game Boy Advance - Advance Wars - Orange Star Land Units_118
+    21300230: Game Boy Advance - Advance Wars - Orange Star Land Units_119
+    21300232: Game Boy Advance - Advance Wars - Orange Star Land Units_120
+    21300234: Game Boy Advance - Advance Wars - Orange Star Land Units_121
+    21300236: Game Boy Advance - Advance Wars - Orange Star Land Units_122
+    21300238: Game Boy Advance - Advance Wars - Orange Star Land Units_123
+    21300240: Game Boy Advance - Advance Wars - Orange Star Land Units_124
+    21300242: Game Boy Advance - Advance Wars - Orange Star Land Units_125
+    21300244: Game Boy Advance - Advance Wars - Orange Star Land Units_126
+    21300246: Game Boy Advance - Advance Wars - Orange Star Land Units_127
+    21300248: Game Boy Advance - Advance Wars - Orange Star Land Units_128
+    21300250: Game Boy Advance - Advance Wars - Orange Star Land Units_129
+    21300252: Game Boy Advance - Advance Wars - Orange Star Land Units_130
+    21300254: Game Boy Advance - Advance Wars - Orange Star Land Units_131
+    21300256: Game Boy Advance - Advance Wars - Orange Star Land Units_132
+    21300258: Game Boy Advance - Advance Wars - Orange Star Land Units_133
+    21300260: Game Boy Advance - Advance Wars - Orange Star Land Units_134
+    21300262: Game Boy Advance - Advance Wars - Orange Star Land Units_135
+    21300264: Game Boy Advance - Advance Wars - Orange Star Land Units_136
+    21300266: Game Boy Advance - Advance Wars - Orange Star Land Units_137
+    21300268: Game Boy Advance - Advance Wars - Orange Star Land Units_138
+    21300270: Game Boy Advance - Advance Wars - Orange Star Land Units_139
+    21300272: Game Boy Advance - Advance Wars - Orange Star Land Units_140
+    21300274: Game Boy Advance - Advance Wars - Orange Star Land Units_141
+    21300276: Game Boy Advance - Advance Wars - Orange Star Land Units_142
+    21300278: Game Boy Advance - Advance Wars - Orange Star Land Units_143
+    21300280: Game Boy Advance - Advance Wars - Orange Star Land Units_144
+    21300282: Game Boy Advance - Advance Wars - Orange Star Land Units_145
+    21300284: Game Boy Advance - Advance Wars - Orange Star Land Units_146
+    21300286: Game Boy Advance - Advance Wars - Orange Star Land Units_147
+    21300288: Game Boy Advance - Advance Wars - Orange Star Land Units_148
+    21300290: Game Boy Advance - Advance Wars - Orange Star Land Units_149
+    21300292: Game Boy Advance - Advance Wars - Orange Star Land Units_150
+    21300294: Game Boy Advance - Advance Wars - Orange Star Land Units_151
+    21300296: Game Boy Advance - Advance Wars - Orange Star Land Units_152
+    21300298: Game Boy Advance - Advance Wars - Orange Star Land Units_153
+    21300300: Game Boy Advance - Advance Wars - Orange Star Land Units_154
+    21300302: Game Boy Advance - Advance Wars - Orange Star Land Units_155
+    21300304: Game Boy Advance - Advance Wars - Orange Star Land Units_156
+    21300306: Game Boy Advance - Advance Wars - Orange Star Land Units_157
+    21300308: Game Boy Advance - Advance Wars - Orange Star Land Units_158
+    21300310: Game Boy Advance - Advance Wars - Orange Star Land Units_159
+    21300312: Game Boy Advance - Advance Wars - Orange Star Land Units_160
+    21300314: Game Boy Advance - Advance Wars - Orange Star Land Units_161
+    21300316: Game Boy Advance - Advance Wars - Orange Star Land Units_162
+    21300318: Game Boy Advance - Advance Wars - Orange Star Land Units_163
+    21300320: Game Boy Advance - Advance Wars - Orange Star Land Units_164
+    21300322: Game Boy Advance - Advance Wars - Orange Star Land Units_165
+    21300324: Game Boy Advance - Advance Wars - Orange Star Land Units_166
+    21300326: Game Boy Advance - Advance Wars - Orange Star Land Units_167
+    21300328: Game Boy Advance - Advance Wars - Orange Star Land Units_168
+    21300330: Game Boy Advance - Advance Wars - Orange Star Land Units_169
+    21300332: Game Boy Advance - Advance Wars - Orange Star Land Units_170
+    21300334: Game Boy Advance - Advance Wars - Orange Star Land Units_171
+    21300336: Game Boy Advance - Advance Wars - Orange Star Land Units_172
+    21300338: Game Boy Advance - Advance Wars - Orange Star Land Units_173
+    21300340: Game Boy Advance - Advance Wars - Orange Star Land Units_174
+    21300342: Game Boy Advance - Advance Wars - Orange Star Land Units_175
+    21300344: Game Boy Advance - Advance Wars - Orange Star Land Units_176
+    21300346: Game Boy Advance - Advance Wars - Orange Star Land Units_177
+    21300348: Game Boy Advance - Advance Wars - Orange Star Land Units_178
+    21300350: Game Boy Advance - Advance Wars - Orange Star Land Units_179
+    21300352: Game Boy Advance - Advance Wars - Orange Star Land Units_180
+    21300354: Game Boy Advance - Advance Wars - Orange Star Land Units_181
+    21300356: Game Boy Advance - Advance Wars - Orange Star Land Units_182
+    21300358: Game Boy Advance - Advance Wars - Orange Star Land Units_183
+    21300360: Game Boy Advance - Advance Wars - Orange Star Land Units_184
+    21300362: Game Boy Advance - Advance Wars - Orange Star Land Units_185
+    21300364: Game Boy Advance - Advance Wars - Orange Star Land Units_186
+    21300366: Game Boy Advance - Advance Wars - Orange Star Land Units_187
+    21300368: Game Boy Advance - Advance Wars - Orange Star Land Units_188
+    21300370: Game Boy Advance - Advance Wars - Orange Star Land Units_189
+    21300372: Game Boy Advance - Advance Wars - Orange Star Land Units_190
+    21300374: Game Boy Advance - Advance Wars - Orange Star Land Units_191
+    21300376: Game Boy Advance - Advance Wars - Orange Star Land Units_192
+    21300378: Game Boy Advance - Advance Wars - Orange Star Land Units_193
+    21300380: Game Boy Advance - Advance Wars - Orange Star Land Units_194
+    21300382: Game Boy Advance - Advance Wars - Orange Star Land Units_195
+    21300384: Game Boy Advance - Advance Wars - Orange Star Land Units_196
+    21300386: Game Boy Advance - Advance Wars - Orange Star Land Units_197
+    21300388: Game Boy Advance - Advance Wars - Orange Star Land Units_198
+    21300390: Game Boy Advance - Advance Wars - Orange Star Land Units_199
+    21300392: Game Boy Advance - Advance Wars - Orange Star Land Units_200
+    21300394: Game Boy Advance - Advance Wars - Orange Star Land Units_201
+    21300396: Game Boy Advance - Advance Wars - Orange Star Land Units_202
+    21300398: Game Boy Advance - Advance Wars - Orange Star Land Units_203
+    21300400: Game Boy Advance - Advance Wars - Orange Star Land Units_204
+    21300402: Game Boy Advance - Advance Wars - Orange Star Land Units_205
+    21300404: Game Boy Advance - Advance Wars - Orange Star Land Units_206
+    21300406: Game Boy Advance - Advance Wars - Orange Star Land Units_207
+    21300408: Game Boy Advance - Advance Wars - Orange Star Land Units_208
+    21300410: Game Boy Advance - Advance Wars - Orange Star Land Units_209
+    21300412: Game Boy Advance - Advance Wars - Orange Star Land Units_210
+    21300414: Game Boy Advance - Advance Wars - Orange Star Land Units_211
+    21300416: Game Boy Advance - Advance Wars - Orange Star Land Units_212
+    21300418: Game Boy Advance - Advance Wars - Orange Star Land Units_213
+    21300420: Game Boy Advance - Advance Wars - Orange Star Land Units_214
+    21300422: Game Boy Advance - Advance Wars - Orange Star Land Units_215
+    21300424: Game Boy Advance - Advance Wars - Orange Star Land Units_216
+    21300426: Game Boy Advance - Advance Wars - Orange Star Land Units_217
+    21300428: Game Boy Advance - Advance Wars - Orange Star Land Units_218
+    21300430: Game Boy Advance - Advance Wars - Orange Star Land Units_219
+    21300432: Game Boy Advance - Advance Wars - Orange Star Land Units_220
+    21300434: Game Boy Advance - Advance Wars - Orange Star Land Units_221
+    21300436: Game Boy Advance - Advance Wars - Orange Star Land Units_222
+    21300438: Game Boy Advance - Advance Wars - Orange Star Land Units_223
+    21300440: Game Boy Advance - Advance Wars - Orange Star Land Units_224
+    21300442: Game Boy Advance - Advance Wars - Orange Star Land Units_225
+    21300444: Game Boy Advance - Advance Wars - Orange Star Land Units_226
+    21300446: Game Boy Advance - Advance Wars - Orange Star Land Units_227
+    21300448: Game Boy Advance - Advance Wars - Orange Star Land Units_228
+    21300450: Game Boy Advance - Advance Wars - Orange Star Land Units_229
+    21300452: Game Boy Advance - Advance Wars - Orange Star Land Units_230
+    21300454: Game Boy Advance - Advance Wars - Orange Star Land Units_231
+    21300456: Game Boy Advance - Advance Wars - Orange Star Land Units_232
+    21300458: Game Boy Advance - Advance Wars - Orange Star Land Units_233
+    21300460: Game Boy Advance - Advance Wars - Orange Star Land Units_234
+    21300462: Game Boy Advance - Advance Wars - Orange Star Land Units_235
+    21300464: Game Boy Advance - Advance Wars - Orange Star Land Units_236
+    21300466: Game Boy Advance - Advance Wars - Orange Star Land Units_237
+    21300468: Game Boy Advance - Advance Wars - Orange Star Land Units_238
+    21300470: Game Boy Advance - Advance Wars - Orange Star Land Units_239
+    21300472: Game Boy Advance - Advance Wars - Orange Star Land Units_240
+    21300474: Game Boy Advance - Advance Wars - Orange Star Land Units_241
+    21300476: Game Boy Advance - Advance Wars - Orange Star Land Units_242
+    21300478: Game Boy Advance - Advance Wars - Orange Star Land Units_243
+    21300480: Game Boy Advance - Advance Wars - Orange Star Land Units_244
+    21300482: Game Boy Advance - Advance Wars - Orange Star Land Units_245
+    21300484: Game Boy Advance - Advance Wars - Orange Star Land Units_246
+    21300486: Game Boy Advance - Advance Wars - Orange Star Land Units_247
+    21300488: Game Boy Advance - Advance Wars - Orange Star Land Units_248
+    21300490: Game Boy Advance - Advance Wars - Orange Star Land Units_249
+    21300492: Game Boy Advance - Advance Wars - Orange Star Land Units_250
+    21300494: Game Boy Advance - Advance Wars - Orange Star Land Units_251
+    21300496: Game Boy Advance - Advance Wars - Orange Star Land Units_252
+    21300498: Game Boy Advance - Advance Wars - Orange Star Land Units_253
+    21300500: Game Boy Advance - Advance Wars - Orange Star Land Units_254
+    21300502: Game Boy Advance - Advance Wars - Orange Star Land Units_255
+    21300504: Game Boy Advance - Advance Wars - Orange Star Land Units_256
+    21300506: Game Boy Advance - Advance Wars - Orange Star Land Units_257
+    21300508: Game Boy Advance - Advance Wars - Orange Star Land Units_258
+    21300510: Game Boy Advance - Advance Wars - Orange Star Land Units_259
+    21300512: Game Boy Advance - Advance Wars - Orange Star Land Units_260
+    21300514: Game Boy Advance - Advance Wars - Orange Star Land Units_261
+    21300516: Game Boy Advance - Advance Wars - Orange Star Land Units_262
+    21300518: Game Boy Advance - Advance Wars - Orange Star Land Units_263
+    21300520: Game Boy Advance - Advance Wars - Orange Star Land Units_264
+    21300522: Game Boy Advance - Advance Wars - Orange Star Land Units_265
+    21300524: Game Boy Advance - Advance Wars - Orange Star Land Units_266
+    21300526: Game Boy Advance - Advance Wars - Orange Star Land Units_267
+    21300528: Game Boy Advance - Advance Wars - Orange Star Land Units_268
+    21300530: Game Boy Advance - Advance Wars - Orange Star Land Units_269
+    21300532: Game Boy Advance - Advance Wars - Orange Star Land Units_270
+    21300534: Game Boy Advance - Advance Wars - Orange Star Land Units_271
+    21300536: Game Boy Advance - Advance Wars - Orange Star Land Units_272
+    21300538: Game Boy Advance - Advance Wars - Orange Star Land Units_273
+    21300540: Game Boy Advance - Advance Wars - Orange Star Land Units_274
+    21300542: Game Boy Advance - Advance Wars - Orange Star Land Units_275
+    21300544: Game Boy Advance - Advance Wars - Orange Star Land Units_276
+    21300546: Game Boy Advance - Advance Wars - Orange Star Land Units_277
+    21300548: Game Boy Advance - Advance Wars - Orange Star Land Units_278
+    21300550: Game Boy Advance - Advance Wars - Orange Star Land Units_279
+    21300552: Game Boy Advance - Advance Wars - Orange Star Land Units_280
+    21300554: Game Boy Advance - Advance Wars - Orange Star Land Units_281
+    21300556: Game Boy Advance - Advance Wars - Orange Star Land Units_282
+    21300558: Game Boy Advance - Advance Wars - Orange Star Land Units_283
+    21300560: Game Boy Advance - Advance Wars - Orange Star Land Units_284
+    21300562: Game Boy Advance - Advance Wars - Orange Star Land Units_285
+    21300564: Game Boy Advance - Advance Wars - Orange Star Land Units_286
+    21300566: Game Boy Advance - Advance Wars - Orange Star Land Units_287
+    21300568: Game Boy Advance - Advance Wars - Orange Star Land Units_288
+    21300570: Game Boy Advance - Advance Wars - Orange Star Land Units_289
+    21300572: Game Boy Advance - Advance Wars - Orange Star Land Units_290
+    21300574: Game Boy Advance - Advance Wars - Orange Star Land Units_291
+    21300576: Game Boy Advance - Advance Wars - Orange Star Land Units_292
+    21300578: Game Boy Advance - Advance Wars - Orange Star Land Units_293
+    21300580: Game Boy Advance - Advance Wars - Orange Star Land Units_294
+    21300582: Game Boy Advance - Advance Wars - Orange Star Land Units_295
+    21300584: Game Boy Advance - Advance Wars - Orange Star Land Units_296
+    21300586: Game Boy Advance - Advance Wars - Orange Star Land Units_297
+    21300588: Game Boy Advance - Advance Wars - Orange Star Land Units_298
+    21300590: Game Boy Advance - Advance Wars - Orange Star Land Units_299
+    21300592: Game Boy Advance - Advance Wars - Orange Star Land Units_300
+    21300594: Game Boy Advance - Advance Wars - Orange Star Land Units_301
+    21300596: Game Boy Advance - Advance Wars - Orange Star Land Units_302
+    21300598: Game Boy Advance - Advance Wars - Orange Star Land Units_303
+    21300600: Game Boy Advance - Advance Wars - Orange Star Land Units_304
+    21300602: Game Boy Advance - Advance Wars - Orange Star Land Units_305
+    21300604: Game Boy Advance - Advance Wars - Orange Star Land Units_306
+    21300606: Game Boy Advance - Advance Wars - Orange Star Land Units_307
+    21300608: Game Boy Advance - Advance Wars - Orange Star Land Units_308
+    21300610: Game Boy Advance - Advance Wars - Orange Star Land Units_309
+    21300612: Game Boy Advance - Advance Wars - Orange Star Land Units_310
+    21300614: Game Boy Advance - Advance Wars - Orange Star Land Units_311
+    21300616: Game Boy Advance - Advance Wars - Orange Star Land Units_312
+    21300618: Game Boy Advance - Advance Wars - Orange Star Land Units_313
+    21300620: Game Boy Advance - Advance Wars - Orange Star Land Units_314
+    21300622: Game Boy Advance - Advance Wars - Orange Star Land Units_315
+    21300624: Game Boy Advance - Advance Wars - Orange Star Land Units_316
+    21300626: Game Boy Advance - Advance Wars - Orange Star Land Units_317
+    21300628: Game Boy Advance - Advance Wars - Orange Star Land Units_318
+    21300630: Game Boy Advance - Advance Wars - Orange Star Land Units_319
+    21300632: Game Boy Advance - Advance Wars - Orange Star Land Units_320
+    21300634: Game Boy Advance - Advance Wars - Orange Star Land Units_321
+    21300636: Game Boy Advance - Advance Wars - Orange Star Land Units_322
+    21300638: Game Boy Advance - Advance Wars - Orange Star Land Units_323
+    21300640: Game Boy Advance - Advance Wars - Orange Star Land Units_324
+    21300642: Game Boy Advance - Advance Wars - Orange Star Land Units_325
+    21300644: Game Boy Advance - Advance Wars - Orange Star Land Units_326
+    21300646: Game Boy Advance - Advance Wars - Orange Star Land Units_327
+    21300648: Game Boy Advance - Advance Wars - Orange Star Land Units_328
+    21300650: Game Boy Advance - Advance Wars - Orange Star Land Units_329
+    21300652: Game Boy Advance - Advance Wars - Orange Star Land Units_330
+    21300654: Game Boy Advance - Advance Wars - Orange Star Land Units_331
+    21300656: Game Boy Advance - Advance Wars - Orange Star Land Units_332
+    21300658: Game Boy Advance - Advance Wars - Orange Star Land Units_333
+    21300660: Game Boy Advance - Advance Wars - Orange Star Land Units_334
+    21300662: Game Boy Advance - Advance Wars - Orange Star Land Units_335
+    21300664: Game Boy Advance - Advance Wars - Orange Star Land Units_336
+    21300666: Game Boy Advance - Advance Wars - Orange Star Land Units_337
+    21300668: Game Boy Advance - Advance Wars - Orange Star Land Units_338
+    21300670: Game Boy Advance - Advance Wars - Orange Star Land Units_339
+    21300672: Game Boy Advance - Advance Wars - Orange Star Land Units_340
+    21300674: Game Boy Advance - Advance Wars - Orange Star Land Units_341
+    21300676: Game Boy Advance - Advance Wars - Orange Star Land Units_342
+    21300678: Game Boy Advance - Advance Wars - Orange Star Land Units_343
+    21300680: Game Boy Advance - Advance Wars - Orange Star Land Units_344
+    21300682: Game Boy Advance - Advance Wars - Orange Star Land Units_345
+    21300684: Game Boy Advance - Advance Wars - Orange Star Land Units_346
+    21300686: Game Boy Advance - Advance Wars - Orange Star Land Units_347
+    21300688: Game Boy Advance - Advance Wars - Orange Star Land Units_348
+    21300690: Game Boy Advance - Advance Wars - Orange Star Land Units_349
+    21300692: Game Boy Advance - Advance Wars - Orange Star Land Units_350
+    21300694: Game Boy Advance - Advance Wars - Orange Star Land Units_351
+    21300696: Game Boy Advance - Advance Wars - Orange Star Land Units_352
+    21300698: Game Boy Advance - Advance Wars - Orange Star Land Units_353
+    21300700: Game Boy Advance - Advance Wars - Orange Star Land Units_354
+    21300702: Game Boy Advance - Advance Wars - Orange Star Land Units_355
+    21300704: Game Boy Advance - Advance Wars - Orange Star Land Units_356
+    21300706: Game Boy Advance - Advance Wars - Orange Star Land Units_357
+    21300708: Game Boy Advance - Advance Wars - Orange Star Land Units_358
+    21300710: Game Boy Advance - Advance Wars - Orange Star Land Units_359
+    21300712: Game Boy Advance - Advance Wars - Orange Star Land Units_360
+    21300714: Game Boy Advance - Advance Wars - Orange Star Land Units_361
+    21300716: Game Boy Advance - Advance Wars - Orange Star Land Units_362
+    21300718: Game Boy Advance - Advance Wars - Orange Star Land Units_363
+    21300720: Game Boy Advance - Advance Wars - Orange Star Land Units_364
+    21300722: Game Boy Advance - Advance Wars - Orange Star Land Units_365
+    21300724: Game Boy Advance - Advance Wars - Orange Star Land Units_366
+    21300726: Game Boy Advance - Advance Wars - Orange Star Land Units_367
+    21300728: Game Boy Advance - Advance Wars - Orange Star Land Units_368
+    21300730: Game Boy Advance - Advance Wars - Orange Star Land Units_369
+    21300732: Game Boy Advance - Advance Wars - Orange Star Land Units_370
+    21300734: Game Boy Advance - Advance Wars - Orange Star Land Units_371
+    21300736: Game Boy Advance - Advance Wars - Orange Star Land Units_372
+    21300738: Game Boy Advance - Advance Wars - Orange Star Land Units_373
+    21300740: Game Boy Advance - Advance Wars - Orange Star Land Units_374
+    21300742: Game Boy Advance - Advance Wars - Orange Star Land Units_375
+    21300744: Game Boy Advance - Advance Wars - Orange Star Land Units_376
+    21300746: Game Boy Advance - Advance Wars - Orange Star Land Units_377
+    21300748: Game Boy Advance - Advance Wars - Orange Star Land Units_378
+    21300750: Game Boy Advance - Advance Wars - Orange Star Land Units_379
+    21300752: Game Boy Advance - Advance Wars - Orange Star Land Units_380
+    21300754: Game Boy Advance - Advance Wars - Orange Star Land Units_381
+    21300756: Game Boy Advance - Advance Wars - Orange Star Land Units_382
+    21300758: Game Boy Advance - Advance Wars - Orange Star Land Units_383
+    21300760: Game Boy Advance - Advance Wars - Orange Star Land Units_384
+    21300762: Game Boy Advance - Advance Wars - Orange Star Land Units_385
+    21300764: Game Boy Advance - Advance Wars - Orange Star Land Units_386
+    21300766: Game Boy Advance - Advance Wars - Orange Star Land Units_387
+    21300768: Game Boy Advance - Advance Wars - Orange Star Land Units_388
+    21300770: Game Boy Advance - Advance Wars - Orange Star Land Units_389
+    21300772: Game Boy Advance - Advance Wars - Orange Star Land Units_390
+    21300774: Game Boy Advance - Advance Wars - Orange Star Land Units_391
+    21300776: Game Boy Advance - Advance Wars - Orange Star Land Units_392
+    21300778: Game Boy Advance - Advance Wars - Orange Star Land Units_393
+    21300780: Game Boy Advance - Advance Wars - Orange Star Land Units_394
+    21300782: Game Boy Advance - Advance Wars - Orange Star Land Units_395
+    21300784: Game Boy Advance - Advance Wars - Orange Star Land Units_396
+    21300786: Game Boy Advance - Advance Wars - Orange Star Land Units_397
+    21300788: Game Boy Advance - Advance Wars - Orange Star Land Units_398
+    21300790: Game Boy Advance - Advance Wars - Orange Star Land Units_399
+    21300792: Game Boy Advance - Advance Wars - Orange Star Land Units_400
+    21300794: Game Boy Advance - Advance Wars - Orange Star Land Units_401
+    21300796: Game Boy Advance - Advance Wars - Orange Star Land Units_402
+    21300798: Game Boy Advance - Advance Wars - Orange Star Land Units_403
+    21300800: Game Boy Advance - Advance Wars - Orange Star Land Units_404
+    21300802: Game Boy Advance - Advance Wars - Orange Star Land Units_3
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1546
+        width: 15
+        height: 11
+      alignment: 9
+      pivot: {x: 0.49476445, y: 0.72843796}
+      border: {x: 0, y: 6, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1531
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1539
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1529
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1530
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1531
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1532
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_9
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1481
+        width: 262
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1517
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1512
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1525
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1512
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1516
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1489
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_18
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1489
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1489
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1489
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_21
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1489
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1489
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_23
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1489
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_24
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1429
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1449
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1449
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1449
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1449
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1449
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1449
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1449
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1449
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1461
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1461
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_35
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1461
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_36
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1461
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_37
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1461
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1461
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_39
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1461
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_40
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1461
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_41
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1429
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_42
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1427
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_43
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1419
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1419
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_45
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1415
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_46
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1415
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1415
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1415
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_49
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1415
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_50
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1415
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_51
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1436
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1419
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1419
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_54
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1419
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_55
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1419
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_56
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1419
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_57
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1419
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_58
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1373
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_59
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1373
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1373
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1373
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1373
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_63
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1373
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_64
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1373
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_65
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1380
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1373
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_67
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1373
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_68
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1399
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_69
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1373
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_70
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1374
+        width: 77
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_71
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1391
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_72
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1391
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_73
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1391
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_74
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1391
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_75
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1389
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_76
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1354
+        width: 115
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_77
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1371
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1333
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1333
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_80
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1333
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_81
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1333
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_82
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1333
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_83
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1345
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_84
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1329
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_85
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1354
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_86
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1356
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_87
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1330
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_88
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1344
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_89
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1341
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_90
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1346
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_91
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1346
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_92
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1324
+        width: 65
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_93
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1304
+        width: 178
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_94
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1307
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_95
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1292
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_96
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1292
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_97
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1292
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_98
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1292
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_99
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1292
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_100
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1292
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1292
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_102
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1269
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_103
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1269
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_104
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1269
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_105
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1269
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_106
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1260
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_107
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1260
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_108
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1260
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_109
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1260
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_110
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1260
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_111
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1260
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_112
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1260
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_113
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1189
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_114
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1190
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_115
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1192
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_116
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1191
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_117
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1191
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_118
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1191
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_119
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1234
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_120
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1234
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_121
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1234
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_122
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1234
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_123
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1234
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_124
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1234
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_125
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1234
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_126
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1115
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_127
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1115
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_128
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1115
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_129
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1114
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_130
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1114
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_131
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1162
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_132
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1162
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_133
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1162
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_134
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1162
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_135
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1162
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_136
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1162
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_137
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1124
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_138
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1092
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_139
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1092
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_140
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1092
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_141
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1092
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_142
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1120
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_143
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1119
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_144
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1115
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_145
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1101
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_146
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1097
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_147
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1101
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_148
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1097
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_149
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1097
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_150
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1042
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_151
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1042
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_152
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1042
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_153
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1042
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_154
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1042
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_155
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1042
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_156
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1092
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_157
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1092
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_158
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1085
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_159
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1031
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_160
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1031
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_161
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1031
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_162
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1031
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_163
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1031
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_164
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1001
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_165
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1001
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_166
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1001
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_167
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1001
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_168
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1000
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_169
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1000
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1000
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_171
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 965
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_172
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 965
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_173
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 965
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_174
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 965
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_175
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 965
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_176
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 965
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_177
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 973
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_178
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 973
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_179
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 973
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_180
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 973
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_181
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 973
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_182
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 973
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_183
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 973
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_184
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 883
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_185
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 889
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_186
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 899
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_187
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 899
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_188
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 899
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_189
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 908
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_190
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 899
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_191
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 910
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_192
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 904
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_193
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 904
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_194
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 899
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_195
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 904
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_196
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 899
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_197
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 829
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_198
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 829
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_199
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 829
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_200
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 829
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_201
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 866
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_202
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 854
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_203
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 826
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_204
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 826
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_205
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 826
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_206
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 826
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_207
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 826
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_208
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 826
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_209
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 825
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_210
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 794
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_211
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 794
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_212
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 794
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_213
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 794
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_214
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 794
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_215
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 794
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_216
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 794
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_217
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 789
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_218
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 789
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_219
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 789
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_220
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 789
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_221
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 789
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_222
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 789
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_223
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 789
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_224
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 738
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_225
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 723
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_226
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 723
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_227
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 723
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_228
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 723
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_229
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 757
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_230
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 757
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_231
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 757
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_232
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 757
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_233
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 757
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_234
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 757
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_235
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 757
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_236
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 696
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_237
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 696
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_238
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 696
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_239
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 739
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_240
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 696
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_241
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 696
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_242
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 699
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_243
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 707
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_244
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 716
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_245
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 707
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_246
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 718
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_247
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 647
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_248
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 687
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_249
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 703
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_250
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 702
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_251
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 702
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_252
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 687
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_253
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 647
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_254
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 681
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_255
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 695
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_256
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 697
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_257
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 648
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_258
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 679
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_259
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 676
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_260
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 650
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_261
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 650
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_262
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 650
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_263
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 650
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_264
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 650
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_265
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 650
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_266
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 650
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_267
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 619
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_268
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 619
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_269
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 619
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_270
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 619
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_271
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 619
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_272
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 619
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_273
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 619
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_274
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 592
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_275
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_276
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_277
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_278
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_279
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_280
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_281
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 550
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_282
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 603
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_283
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 549
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_284
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 550
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_285
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 559
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_286
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 561
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_287
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 550
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_288
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 570
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_289
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 550
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_290
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 558
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_291
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 578
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_292
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 575
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_293
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 550
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_294
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 558
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_295
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 558
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_296
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 558
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_297
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 558
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_298
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 558
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_299
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 558
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_300
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 558
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_301
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 561
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_302
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 466
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_303
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 466
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_304
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 466
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_305
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 466
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_306
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 466
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_307
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 466
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_308
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 500
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_309
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 500
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_310
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 500
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_311
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 500
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_312
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 500
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_313
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 500
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_314
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 500
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_315
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 477
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_316
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 477
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_317
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 477
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_318
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 477
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_319
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 477
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_320
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 477
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_321
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_322
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 400
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_323
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 400
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_324
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 400
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_325
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 410
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_326
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 406
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_327
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 400
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_328
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 397
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_329
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 397
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_330
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 397
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_331
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 397
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_332
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 397
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_333
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 398
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_334
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 406
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_335
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 401
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_336
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 401
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_337
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 401
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_338
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 333
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_339
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 333
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_340
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 333
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_341
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 333
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_342
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 333
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_343
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 333
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_344
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 318
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_345
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 318
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_346
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 318
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_347
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 328
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_348
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 318
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_349
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 328
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_350
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 324
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_351
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 324
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_352
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 324
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_353
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 319
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_354
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 319
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_355
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 253
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_356
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 253
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_357
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 253
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_358
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 253
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_359
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 253
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_360
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 252
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_361
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 243
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_362
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 243
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_363
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 243
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_364
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 243
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_365
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 243
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_366
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 183
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_367
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 183
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_368
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 183
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_369
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 195
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_370
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 191
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_371
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 183
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_372
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 193
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_373
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 166
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_374
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 166
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_375
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 166
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_376
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 166
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_377
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 166
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_378
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 166
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_379
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 189
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_380
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 186
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_381
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 189
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_382
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 184
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_383
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 117
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_384
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 117
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_385
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 136
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_386
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 117
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_387
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 117
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_388
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 142
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_389
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 86
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_390
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 86
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_391
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 96
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_392
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 86
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_393
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 92
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_394
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 86
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_395
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 92
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_396
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 87
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_397
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 87
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_398
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 87
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_399
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_400
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_401
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_402
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 3
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_403
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 3
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_404
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 3
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game Boy Advance - Advance Wars - Orange Star Land Units_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1515
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.38691932, y: 0.65545446}
+      border: {x: 0, y: 9, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
